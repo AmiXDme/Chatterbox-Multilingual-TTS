@@ -243,6 +243,8 @@ with gr.Blocks() as demo:
         """
         # Chatterbox Multilingual Demo
         Generate high-quality multilingual speech from text with reference audio styling, supporting 23 languages.
+        
+        For a hosted version of Chatterbox Multilingual and for finetuning, please visit [resemble.ai](https://app.resemble.ai)
         """
     )
     
